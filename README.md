@@ -1,17 +1,28 @@
-# bitaddress.org
-JavaScript Client-Side Bitcoin Wallet Generator
+****************************************************
+****************************************************
+*** We highly recommend using this software on a ***
+*** computer that is OFFLINE, and stays OFFLINE. ***
+****************************************************
+****************************************************
 
-Now Bitcoin addresses and their corresponding private key can be conveniently 
+# 42-address
+
+JavaScript Client-Side 42-coin Wallet Generator
+
+This project is a fork of bitaddress.org, the original trustworthy
+JavaScript powered offline bitcoin address generator.
+
+Now 42-coin addresses and their corresponding private key can be conveniently 
 generated in a web browser.
 
-The bitaddress.org project provides an all-in-one HTML document with embedded
+The 42-ddress project provides an all-in-one HTML document with embedded
 JavaScript/Css/Images. The JavaScript is readable not minified and contains no
 XMLHttpRequest's (no AJAX). The benefit of this technique is you can load the 
 JavaScript locally and trust that the JavaScript did not change after being 
 loaded. 
 
-Here is a link to the BitcoinTalk.org forum topic discussing this project:
-https://bitcointalk.org/index.php?topic=43496.0
+Here is a link to the BitcoinTalk.org forum topic discussing the bitaddress.org 
+project: https://bitcointalk.org/index.php?topic=43496.0
 
 
 Please send DONATIONS for this project to Bitcoin Address: 

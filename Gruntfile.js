@@ -66,7 +66,7 @@ module.exports = function (grunt) {
 					eol: 'lf'
 				},
 				files: {                // Files to process
-					'./bitaddress.org.html': ['./bitaddress.org.html']
+					'./bitaddress.org.html': ['./index.html']
 				}
 			}
 		}
