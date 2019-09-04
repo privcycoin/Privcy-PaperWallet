@@ -4,17 +4,17 @@ We highly recommend using this software on a computer that is OFFLINE, and stays
 *****************************************************************************************
 *****************************************************************************************
 
-# 42-address
+# Privcy-address
 
-JavaScript Client-Side 42-coin Wallet Generator
+JavaScript Client-Side Privcy-coin Wallet Generator
 
 This project is a fork of bitaddress.org, the original trustworthy
 JavaScript powered offline bitcoin address generator.
 
-Now 42-coin addresses and their corresponding private key can be conveniently 
+Now Privcy-coin addresses and their corresponding private key can be conveniently
 generated in a web browser.
 
-The 42-ddress project provides an all-in-one HTML document with embedded
+The Privcy-ddress project provides an all-in-one HTML document with embedded
 JavaScript/Css/Images. The JavaScript is readable not minified and contains no
 XMLHttpRequest's (no AJAX). The benefit of this technique is you can load the 
 JavaScript locally and trust that the JavaScript did not change after being 
