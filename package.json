@@ -1,9 +1,9 @@
 {
-  "name": "42-address",
+  "name": "Privcy-address",
   "version": "master",
   "sha1sum": "",
   "sha256sum": "",
-  "description": "Open Source JavaScript Client-Side 42-coin Wallet Generator",
+  "description": "Open Source JavaScript Client-Side Privcy-coin Wallet Generator",
   "main": "Gruntfile.js",
   "dependencies": {
     "grunt": "~0.4.1",
@@ -23,7 +23,7 @@
     "url": "https://github.com/42-address/42-address.github.io.git"
   },
   "keywords": [
-    "42-coin address wallet generator"
+    "Privcy-coin address wallet generator"
   ],
   "author": "pointbiz",
   "license": "MIT",
