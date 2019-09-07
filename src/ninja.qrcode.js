@@ -27,7 +27,7 @@
 			var height = qrcode.getModuleCount() * sizeMultiplier;
 			// create canvas element
 			var canvas = document.createElement('canvas');
-			var scale = 10.0;
+            var scale = 10.0;
 			canvas.width = width * scale;
 			canvas.height = height * scale;
 			canvas.style.width = width + 'px';
