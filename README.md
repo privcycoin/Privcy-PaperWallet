@@ -14,7 +14,7 @@ JavaScript powered offline bitcoin address generator.
 Now PRiVCY-coin addresses and their corresponding private key can be conveniently
 generated in a web browser.
 
-The PRiVCY-ddress project provides an all-in-one HTML document with embedded
+The PRiVCY-address project provides an all-in-one HTML document with embedded
 JavaScript/Css/Images. The JavaScript is readable not minified and contains no
 XMLHttpRequest's (no AJAX). The benefit of this technique is you can load the 
 JavaScript locally and trust that the JavaScript did not change after being 
